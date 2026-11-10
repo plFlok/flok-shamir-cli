@@ -1,0 +1,2 @@
+# Only needed to decrypt legacy FSS1 shares.
+cryptography==50.0.2
